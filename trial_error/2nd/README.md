@@ -12,4 +12,5 @@
   * n02113624-***toy_poodle***
   * n02112018-***Pomeranian***
 
-  <img src = "https://drive.google.com/file/d/10D3dHwzwNGFo7zv8WmrtRN1DODLIg9Zz/view?usp=sharing" width = "500" height = "600"/>
+  <img src = "![labels (1)](https://user-images.githubusercontent.com/94882776/178115483-86f5055b-3fdd-433a-9bb8-18ad7847efc4.jpg)
+" width = "500" height = "600"/>
