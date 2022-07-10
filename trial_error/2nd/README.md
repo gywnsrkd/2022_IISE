@@ -13,3 +13,6 @@
   * n02112018-***Pomeranian***
   
 ![labels (1)](https://user-images.githubusercontent.com/94882776/178137174-4bb5e7db-eb76-4844-87e5-4c8d34f4c270.jpg)
+
+<img src = "https://user-images.githubusercontent.com/94882776/178137174-4bb5e7db-eb76-4844-87e5-4c8d34f4c270.jpg" 
+     width = "500", height = "600">
