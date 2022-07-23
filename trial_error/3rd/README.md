@@ -40,7 +40,7 @@ Dataset : http://vision.stanford.edu/aditya86/ImageNetDogs/ (trial 1,2)
 #### Result
 
 <img src = "https://user-images.githubusercontent.com/94882776/180604875-df1b9c0a-8307-41df-ba30-bf7dac49a513.png" 
-     width = "400" height = "800">
+     width = "900" height = "500">
 
 <img src = "https://user-images.githubusercontent.com/94882776/180604937-0b6559f3-de46-4580-899c-fe41b5c10e73.png" 
      width = "10" height = "10">
