@@ -19,4 +19,4 @@
      
 #### Result
 <img src = "https://user-images.githubusercontent.com/94882776/180600334-b89590f7-e803-4e1e-ac10-186b69210979.png" 
-     width = "400" height = "400">
+     width = "600" height = "400">
