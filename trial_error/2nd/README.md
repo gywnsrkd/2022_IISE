@@ -21,7 +21,3 @@
 <img src = "https://user-images.githubusercontent.com/94882776/180600619-dd6dffc4-6171-453d-b822-ad65c47e5a8b.png" 
      width = "700" height = "600">
 
-
-#### Result
-<img src = "https://user-images.githubusercontent.com/94882776/180600467-980fd425-3bbc-4111-a35f-0954e38562be.png" 
-     width = "700" height = "600">
