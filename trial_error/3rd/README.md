@@ -1,8 +1,7 @@
 ### 맹견(dangerous) : 맹견 X(safe) 1:8
 
 Dataset : http://vision.stanford.edu/aditya86/ImageNetDogs/ (trial 1,2)
-
-          ---> https://cg.cs.tsinghua.edu.cn/ThuDogs/   (trial 3)
+          <br/> https://cg.cs.tsinghua.edu.cn/ThuDogs/   (trial 3)
 
 * 맹견
   * 203-n000015-***Staffordshire_bullterrier***
