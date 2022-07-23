@@ -43,4 +43,4 @@ Dataset : http://vision.stanford.edu/aditya86/ImageNetDogs/ (trial 1,2)
      width = "900" height = "500">
 
 <img src = "https://user-images.githubusercontent.com/94882776/180604937-0b6559f3-de46-4580-899c-fe41b5c10e73.png" 
-     width = "10" height = "10">
+     width = "800" height = "700">
