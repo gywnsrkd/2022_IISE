@@ -1,4 +1,4 @@
-### 맹견(dangerous) : 맹견 X(safe) 1:8
+### 맹견(dangerous) : 맹견 X(safe) 1:5.5
 
 Dataset : http://vision.stanford.edu/aditya86/ImageNetDogs/ (trial 1,2)
           <br/>   ----> https://cg.cs.tsinghua.edu.cn/ThuDogs/   (trial 3)
