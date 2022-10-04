@@ -43,5 +43,5 @@ Dataset :  https://cg.cs.tsinghua.edu.cn/ThuDogs/
 <img src = "https://user-images.githubusercontent.com/94882776/193882061-05dc8e0f-f0b6-412f-ab93-53a794aae2d2.png" 
      width = "900" height = "500">
 
-<img src = "" 
+<img src = "https://user-images.githubusercontent.com/94882776/193882220-98c956c3-e7bb-4c7f-824e-7d31e93a3b19.png" 
      width = "800" height = "700">
