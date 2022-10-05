@@ -40,7 +40,7 @@ Dataset :  https://cg.cs.tsinghua.edu.cn/ThuDogs/
      
 #### Result
 
-<img src = "" 
+<img src = "https://user-images.githubusercontent.com/94882776/194117749-6406aedf-896d-45b2-9a67-63edc83ae8bc.png" 
      width = "900" height = "500">
 
 <img src = "" 
