@@ -8,7 +8,7 @@
         visibility: hidden;
         width: auto;
         height: auto;
-        ">
+        " width = "640" height= "640">
       </video>
     </div>
   </div>
@@ -46,7 +46,7 @@ static async setupCamera() {
       'Browser API navigator.mediaDevices.getUserMedia not available');
   }
 
-  const $size = { width: 640, height: 480 };
+  const $size = { width: 640, height: 6400 };
   const $m_size = { width: 360, height: 270 };
   const videoConfig = {
     'audio': false,
@@ -204,9 +204,10 @@ if (detector != null) {
 
 }
 camera.drawCtx();
-camera.drawResult(detect_res);
+if (detect_res != null) {
+  camera.drawResult(detect_res);
+}
 tf.dispose(input);
-
 }
 
 async function renderPrediction() {
